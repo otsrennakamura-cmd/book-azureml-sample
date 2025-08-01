@@ -2,7 +2,7 @@ name: Run Train jobs
 on: 
   push:
     branches:
-      - 'main'
+      - '*'
     paths:
       - ch9/**
 
